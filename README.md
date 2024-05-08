@@ -1,4 +1,4 @@
-### Hola! Soy Lucas, bienvenido a mi perfil ✋🏼
+### Hola! Soy Lucas, bienvenido a mi perfil 👋🏼
 
 ## Acerca de mí
 -👨🏻‍🔬 Soy Ingeniero Industrial recibido de la Universidad Tecnológica Nacional en Diciembre de 2019 
