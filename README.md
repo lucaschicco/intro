@@ -11,6 +11,6 @@
 [![Dash] Plotly(https://img.shields.io/badge/logo-plotly-purple?logo=plotly)](https://dash.plotly.com/)
 
 
-## 📫 Contact me 
+## 📫 Contacto 
 [![Gmail Badge](https://img.shields.io/badge/-lchicco94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lchicco94@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Chicco-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-chicco-64517313a/ "Connect on LinkedIn")
