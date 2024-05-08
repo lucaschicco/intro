@@ -8,7 +8,8 @@
 ## Herramientas
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/logo-powerbi-yellow?logo=powerbi)](https://app.powerbi.com/)
-[![Dash] Plotly(https://img.shields.io/badge/logo-plotly-purple?logo=plotly)](https://dash.plotly.com/)
+[![Dash Plotly](https://img.shields.io/badge/logo-plotly-purple?logo=plotly)](https://dash.plotly.com/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
 
 
 ## 📫 Contacto 
